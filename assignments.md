@@ -1,14 +1,32 @@
 ## Assignments
 
-The assessed portion of the coursework for this module consists of one essay, a group presentation, and three short essays responding to weekly discussion questions. In addition, students are required to to come prepared each week having completed the assigned reading and prepared to discuss them.
+The assessed portion of the coursework for this module consists of two 3000 word essays, a presentation, and two short essays. In addition, students are required to to come prepared each week having completed the assigned reading and prepared to discuss them.
 
-### Long Essay
+### Long Essays
 
-The essay for the course is worth 30% of the total grade and should be between 4,000-4,500 words. The process of composing an essay of this length is made far easier if make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
+The long essays for the course are each worth 20% of the total grade. 
 
-Some class time on week three will be dedicated to discussing the essay. At that time, please send me two or three general potential topics of interest that are related to the Japanese empire, the name of one or two secondary or primary historical works related to each, and a brief note as to why you chose that work. I will give feedback on the ideas, and throughout the semester encourage students to visit me in office hours to help discuss the move from general topics of interest to specific historical questions. I am also willing to look at an outline of your essay, your final list of sources (at least six, and at least one primary source unless you are writing a historiographical piece), and a draft of the essay.
+The first essay should answer one of the following questions:
 
-The essay should follow the school of history style sheet and observe the rules for conduct. See the relevant sections below.
+1. Did the "chained country" policy of the Tokugawa period amount to much?
+2. Why did East Asia matter in Europe before the 20th century?
+3. What similar responses to external threats in Tokugawa, the Qing, and Chosŏn lead to different results and why?
+4. How did religion and economic crisis interact in 19th century East Asia? Compare two cases.
+5. In what ways were new technological and political ideas transformed as they were taken up throughout East Asia?
+
+OR explore an aspect of one of the following topics:
+
+6. The Foreign Settlements in East Asian Cities
+7. Environmental Change during Modernization in East Asia
+8. Debates over Westernisation in 19th Century East Asia
+9. The Role of European Missionaries in East Asia
+10. Rise and Transformation of Trade in 19th Century East Asia
+11. East Asian Encounters in the West
+12. The Role of Opium and Drugs in East Asia
+13. Korea's Relationship With its Neighbours
+14. The Rise of National Identity in East Asia
+15. Ethnic Minorities and the Modern Nation-State in East Asia
+
 
 Some questions to ask yourself as you write the long essay:
 
@@ -18,7 +36,7 @@ Some questions to ask yourself as you write the long essay:
 * Does the essay show a good understanding of the sources used, and use them effectively in supporting my argument?
 * Does the essay avoid long quotations from secondary works whenever possible?
 * Have I used a variety of appropriate sources?
-* Did I make connections between my essay and the readings and discussions througout the semester in the module?
+* Did I make connections between my essay and the readings and discussions throughout the semester in the module?
 * Does the essay retain a strong focus on the main argument, and avoid passages which stray significantly from the main points?
 * Does the essay avoid being a summary or introduction to a particular topic, event, or person in order to make a clear argument that is falsifiable?
 * Does the essay consider alternative explanations, acknowledge inconvenient facts, and point out sources or historians who may have differing approaches?

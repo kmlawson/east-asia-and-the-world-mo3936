@@ -1,5 +1,4 @@
 \pagebreak
-
 ## Marking
 
 Within the School of History all work is assessed on a scale of 1-20 with intervals of 0.5. Module outcomes are reported using the same scale but with intervals of 0.1. The assessment criteria set out below are not comprehensive, but are intended to provide guidance in interpreting grades and improving the quality of assessed work. Students should bear in mind that presentation is an important element of assessment and that failure to adhere to the guidelines set out in the School of History Style Sheet will be penalised.
@@ -32,27 +31,52 @@ Work so weak as to indicate that only a nominal attempt has been made to complet
 **Unclassifiable**: 0  
 No acceptable work presented.   
 
-## Absence from Classes
+**Re-marking of assessed work**
 
-Attendance is a basic assessment requirement for credit award, and failure to attend classes or meetings with academic staff may result in your losing the right to be assessed in that module. Please ensure that you are familiar with the Academic Alerts regulations.
+Students have only limited grounds on which to launch appeals. The University’s policy is as follows. “Challenges should be submitted on the specific grounds of: procedural irregularity; bias or prejudice; exceptional personal circumstances not previously notified for good reason; harassment or bullying affecting academic performance by a member of staff involved in granting the marks, grades or classification concerned.” A formal challenge should be lodged in writing (email is acceptable) within 5 days of the original mark being notified to the student.
 
-http://www.st-andrews.ac.uk/history/infoug/academicalerts12-13.doc
+If a student wishes to appeal a coursework mark, they should therefore formally notify the course coordinator (or if the coordinator happens also to be the tutor who has given the disputed mark, then they should notify the Director of Teaching. The course coordinator will then institute a review as follows: the grounds for the complaint will be examined, and if the course coordinator believes the appeal should be upheld then the work will be referred to a second tutor teaching on the course, nominated by the course coordinator. The work will then be re-marked, and any discrepancy dealt with by the normal process of discussion and moderation. The course coordinator will act as moderator in case of disagreement. The work concerned will be marked blind (that is, referred to the member of staff offering the second opinion without them being aware of the mark originally given). The student will be informed of the decision within 5 working days of the course coordinator receiving the formal appeal.
 
-If you have missed timetabled classes/events or any other compulsory elements of the module due to illness or an unavoidable pre-arranged event or appointment, you must complete a Self Certificate of Absence form (through e-Vision) as soon as possible.
+If at the end of this process the student is still not satisfied s/he should submit an appeal in writing to the Senate Office within one calendar month after the outcome has been received from the School.
 
-https://e-vision.st-andrews.ac.uk/urd/sits.urd/run/siw_lgn
+Fuller guidance on the School’s appeals and complaints procedures can be found on the School website at:
 
-Under certain circumstances, Schools may request further documentation in addition to the Self Certificate.  In this case, students should contact Student Support in order to organise the appropriate documentation.
+http://www.st-andrews.ac.uk/history/infoug/complaints.html
 
-If you submit more than three Self Certificates in a single semester, or if the period of absence extends to fifteen working days, you may be contacted by Student Support, the relevant Pro Dean, or by an appropriate member of staff in your School.
+## Headers and Formatting
 
-Completion of a Self Certificate is not an acceptable substitute for contacting your tutors well in advance if you have to be absent. Advance notice of absence is acceptable only for good reason (for example, a hospital appointment or job interview).   It is your responsibility to contact the appropriate member of staff to complete any remedial work necessary.
+At the top of your written work, please include:
 
-If you are an international student (non-EEA nationals only), you will be affected by recent changes introduced by the UK in relation to immigration rules and visas.  The University is now legally bound to report to the United Kingdom Borders Agency any student who fails to enrol on a module or programme of study or who fails to attend or who discontinues their studies.
+* The date of submission
+* The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
+* Your student number
+* A title, when appropriate
+* The total number of words (use the word count feature of your word processor)
 
-See also the undergraduate handbook section on permission to proceed:  
-http://www.st-andrews.ac.uk/history/infoug/ptp.html
+When formatting your assignments, please follow these guidelines:
 
-## Extensions
+* Add page numbers
+* Use a minimum of 12 sized font
+* Use a serif (such as Times Roman, Georgia, Garamond), not a sans serif font (such as Arial, Helvetica, Verdana)
+
+## Online Submission
+
+Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are requested and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
+
+If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
+
+## Extensions and Late Work
 
 Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
+
+Without an approved extension, 0.5 points will be deducted for every day (including Saturday, Sunday, and any holiday) after the relevant deadline.
+
+Work submitted more than two weeks after the relevant deadline but before the School's final deadline for semester work will receive an automatic fail mark of 1.
+
+## Word Limits
+
+Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. A piece of work that is under 10% over the limit will not be penalised. Work that ranges around 10-20% too long, will be penalised by 1 point. Anything above 20% of the word limit the work will be returned unmarked. Once resubmitted the piece of work will be marked and late submission penalties apply. 
+
+## Feedback
+
+General feedback is provided directly on the mark sheet, which will be posted to the MMS within 10 weekdays (2 weeks). Additional feedback, especially for longer essays is sometimes available on an annotated copy of your submitted work, usually return via MMS. Occasionally, feedback is written on a paper copy of the assigned work, which will usually be returned after the mark has already been posted to MMS.
