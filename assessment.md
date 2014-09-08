@@ -4,7 +4,7 @@
 
 Within the School of History all work is assessed on a scale of 1-20 with intervals of 0.5. Module outcomes are reported using the same scale but with intervals of 0.1. The assessment criteria set out below are not comprehensive, but are intended to provide guidance in interpreting grades and improving the quality of assessed work. Students should bear in mind that presentation is an important element of assessment and that failure to adhere to the guidelines set out in the School of History Style Sheet will be penalised.
 
-Find the style sheet here:
+Again, you can find the style sheet here:
 http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
 
 **Outstanding First**: 19.0, 19.5, 20.0  
@@ -44,49 +44,4 @@ Fuller guidance on the School’s appeals and complaints procedures can be found
 
 http://www.st-andrews.ac.uk/history/infoug/complaints.html
 
-### Headers and Formatting
 
-At the top of your written work, please include:
-
-* The date of submission
-* The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
-* Your student number
-* A title, when appropriate
-* The total number of words (use the word count feature of your word processor)
-
-When formatting your assignments, please follow these guidelines:
-
-* Add page numbers
-* Use a minimum of 12 sized font
-* Use a serif (such as Times Roman, Georgia, Garamond), not a sans serif font (such as Arial, Helvetica, Verdana)
-* Please double space your essays
-
-### Footnotes and References
-
-Please carefully read the St Andrews School of History Style Sheet:
-
-http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
-
-This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully.
-
-### Online Submission
-
-Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. The digital submission is the only submission that matters for the mark. Paper copies of your submissions are requested and may be submitted in class or directly to my box on the first floor of St Katharine's Lodge. 
-
-If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
-
-### Extensions and Late Work
-
-Prior permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
-
-Without an approved extension, 0.5 points will be deducted for every day (including Saturday, Sunday, and any holiday) after the relevant deadline.
-
-Work submitted more than two weeks after the relevant deadline but before the School's final deadline for semester work will receive an automatic fail mark of 1.
-
-### Word Limits
-
-Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. A piece of work that is under 10% over the limit will not be penalised. Work that ranges around 10-20% too long, will be penalised by 1 point. Anything above 20% of the word limit the work will be returned unmarked. Once resubmitted the piece of work will be marked and late submission penalties apply. 
-
-### Feedback
-
-General feedback is provided directly on the mark sheet, which will be posted to the MMS within 10 weekdays (2 weeks). Additional feedback, especially for longer essays is sometimes available on an annotated copy of your submitted work, usually return via MMS. Occasionally, feedback is written on a paper copy of the assigned work, which will usually be returned after the mark has already been posted to MMS.
