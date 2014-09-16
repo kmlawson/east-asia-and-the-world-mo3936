@@ -164,6 +164,8 @@ Assessed work with word limits should be always submitted within those limits. W
 
 General feedback is provided directly on the mark sheet, which will be posted to the MMS within 10 weekdays (2 weeks). Additional feedback, especially for longer essays is sometimes available on an annotated copy of your submitted work, usually return via MMS. Occasionally, feedback is written on a paper copy of the assigned work, which will usually be returned after the mark has already been posted to MMS.
 
+\pagebreak
+
 ### Presentation
 
 Each week students will be given and opportunity to present a summary, critique, and raise some discussion questions based on supplementary readings. One such presentation for each student will be given more time and assessed formally. The assessed presentation should be 15-20 minutes in length and not longer. It may either: focus on 1-2 books, or a collection of articles (3 articles to replace a book) among the assigned required or supplementary readings for each week. It should summarise the main arguments, and make 1-3 to focused critiques or observations about the read material. A supplementary handout (1-2 pages at most) should be brought that includes some bullet points from the summary, any key persons or dates, and a few questions about the themes in the reading to kick off our discussion.

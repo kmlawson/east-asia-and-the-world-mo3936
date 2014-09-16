@@ -1,6 +1,6 @@
 \pagebreak
 
-# Seminars
+# Seminars September to December
 
 ### Week 1	Sep 17 - Introductions: East Asia and the Global Context
 
@@ -115,11 +115,6 @@ Hevia, James Louis. Cherishing Men from Afar: Qing Guest Ritual and the Macartne
 boxer uprising 14-58
 
 ### Week 6.	Nov 26 - The Development of Japan’s Colonial Empire
+
 [ Inter-Semester ] 
-### Week 7.	Jan 28 - Social and Cultural Transformations in Early 20th Cent. East Asia
-### Week 8.	Feb 11 - Japan’s Invasions of China and the Pacific War
-### Week 9.	Feb 25 - The Aftermaths of War in East Asia
-### Week 10.	Mar 11 - A Tale of Four Republics: PRC, ROC, DPRK, and ROK
-[ Spring Vacation ] 
-### Week 11. Apr 08 - Legacies and Memories
 
