@@ -71,26 +71,41 @@ If you have another topic that interests you, you are more than welcome to propo
 
 ### Making an Argument
 
-The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of a historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay is written about some aspect of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to tell us something, to make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? And so on. The possibilities are many, but in every case, they offer an answer to the question: So what? Why does this history matter? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
+The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of an analytical historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay is written about some aspect of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to tell us something, to make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? And so on. The possibilities are many, but in every case, they offer an answer to the question: So what? Why does this history matter? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
 
 The historical argument in your long essays, in particular, should be clearly and unambiguously stated in the span of 1-3 sentences somewhere in the opening third of the essay, preferably in the opening paragraph or two. If you are answering one of the questions rather than choosing one of the broader topics, this can usually be accomplished by giving a clear answer and adding at least some detail about how you will go on to support your answer. Your argument should be falsifiable, that is, it should be possible to meaningfully contradict the argument you make and demonstrate that it is false if the presented evidence is not sufficient or poorly deployed. It should not be obvious, trivial, or a well-known and rarely contested fact. Challenging as false an existing historian's argument that has become considered obvious and rarely contested, however, is one ambitious way to find your way to an interesting and original argument but only if your evidence is sufficient. Alternatively, if you have found evidence that supports the existing arguments of historians in a given area of research in a new set of sources, from a fresh perspective, or in greater depth, or in a comparative light, that also often yields a strong argument. If you have identified a debate in the historiography and wish to take a position on it without simply repeating all of the points made by one of the participants of the debate, that can also yield an essay with a strong argument but you should take care to acknowledge the position and evidence of the other side.
 
-Some questions to ask yourself as you write the long essay:
+**Presenting your Argument:** There are a number of different ways to write a strong essay and present the argument, but in this module, I would like to strongly encourage you to "front-load" your argument and do so clearly, that is, to present clearly early in the essay what it is you will argue and why it is important. For example, avoid sentences such as "I will explain..." or "I aim to understand..." or "I will explore..." unless these are immediately followed by the explanation, what you ended up understanding, or what the result of your exploration was. In other words, do not use the introduction to make predictions about what you will do, but tell the reader in very clear terms what you **have argued and shown** in the essay. There are many ways to do this in more or less subtle language but there is no harm in a very clear, "In this essay, I will argue that..." followed by a short overview of what kinds of evidence you will use, how your argument fits into a historiographical context (how your argument relates to what other historians have to say about the matter), and why you think it is important. 
+
+For example replace:
+
+In this essay, I will explore the relationship between the alarm clock sleep function and our productivity in modern life.
+
+with something like:
+
+I will argue that the alarm clock sleep function is a major hindrance to our productivity without contributing at all to our rest after a night of sleep. I will base this upon the studies of Hansen and Jenson in 1983 and in a series of interviews with wise old people in 2014. This argument is important because, as I will show, evidence shows that the increased availability of time in the morning to eat a healthier breakfast, carry out some light house chores, and do morning exercise, not only allows for greater evening rest after a long day of work, but decreases the tiredness we feel throughout the day.
+
+**Sticking to your Argument:** All of us come across many interesting stories, anecdotes, and sub-points that we want to share in writing our essays. However, it is important to stay sharply focused on the argument you are going to make in the essay. After you have finished writing your essay, read it through and for each paragraph and sentence ask yourself if it supported your argument, provided essential background to establishing your argument, or else if it does not offer much of a contribution. If it doesn't, cut it ruthlessly from your essay to make room for better material.
+
+Some other questions to ask yourself as you write the long essay:
 
 * Does the essay have a clear introduction which articulates the argument I wish to make in the essay?
 * Does the essay have a clear conclusion which restates the main points and then makes some effort to contextualise the findings in the broader issues of the course?
-* Does the essay situate the argument being made in the context of the sources used, and its relevance to the study of Japanese imperialism (the "so what" question)? 
+* Does the essay situate the argument being made in the context of the sources used, and its relevance to the study of our module topic?
 * Does the essay show a good understanding of the sources used, and use them effectively in supporting my argument with clear and specific examples to enforce my points?
 * Does the essay avoid long quotations from secondary works whenever possible?
 * Have I been careful not to plagiarise sources and cite them whenever used?
+* Have I cited with footnotes all claims that are not a well-known and general historical fact.
 * Have I used a variety of appropriate sources?
 * Does the essay retain a strong focus on the main argument, and avoid passages which stray significantly from the main points?
 * Does the essay avoid being a summary or introduction to a particular topic, event, or person in order to make a clear argument that is falsifiable?
 * Does the essay consider alternative explanations, acknowledge inconvenient facts, and point out sources or historians who may have differing approaches?
 * Did I proofread my essay, check the spelling, and reread for sentences that are unclear?
 * Did I carefully follow the style guide for the School of History for all my footnotes?
-* Did I include a bibliography at the end of my essay?
-* Did I include a word count in the header?
+* Did I include a bibliography at the end of my essay and is it formatted according to the School of History style guide?
+* Have I avoided using websites and newspaper articles not by academic authors to support my claims when there are good academic historical scholarship (in monograph, journal article, or online published forms)
+* Have I taken care that the background for the argument does not take up too much of the entire length of the essay (less than 25%, usually)
+* Did I include a word count in the header and followed the other header guidelines?
 
 ### Carrying Out Research for Essays
 
@@ -141,6 +156,23 @@ Please carefully read the St Andrews School of History Style Sheet:
 http://www.st-andrews.ac.uk/history/infoug/stylesheet.html
 
 This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully.
+
+### How your Long Essay is Evaluated
+
+Here are some of the features of a superb long essay that I look for as I mark your work:
+
+- The essay gives a clear presentation of its argument in the introduction of the essay
+- The essay is written well and has a clear structure. 
+- The essay is within the word limit and of a sufficient length for its proposed scope.
+- The argument is well signposted, with different sub-arguments of the essay clearly introduced with clear topical sentences. 
+- The essay shows that extensive reading and research was done in order to write this essay. 
+- A well-formatted bibliography is provided showing that research was carried out using sources of an appropriate kind and number.
+- Evidence is well cited in the footnotes and the footnotes are generally formatted well. 
+- This essay employs evidence based on its sources in an effective manner.
+- The essay works with primary sources which make a substantive contribution to its main argument.
+- The essay engages with the relevant historiography on this topic directly and effectively
+- The essay has a good balance of empirical examples and evidence on the one hand, and strong analysis contributing to the argument on the other
+- The argument of the essay is not trivial, overly general, or merely represents the wide consensus on a given topic
 
 ### Online Submission
 

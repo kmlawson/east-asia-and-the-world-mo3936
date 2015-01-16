@@ -12,16 +12,17 @@ This is an honours seminar that, while not assuming any background in the study 
 1.	Sep 17 - Introductions: East Asia and the Global Context
 2.	Oct 01 - An Evolving East Asian Order – Qing, Chosŏn, and Tokugawa
 3.	Oct 15 - Sociable Hermit Kingdoms and Not-So Chained Countries
-4.	[TBD] - Facing the Challenge of Western Imperialism
-5.	Nov 12 - Expelling Barbarians, Strengthening Kingdoms, and Restorations
-6.	Nov 26 - The Development of Japan’s Colonial Empire  
+4.	Nov 12 - Facing the Challenge of Western Imperialism
+5.	Nov 26 - Expelling Barbarians, Strengthening Kingdoms, and Restorations
+6.	Dec 10 - The Development of Japan’s Colonial Empire  
 [ Inter-Semester ] 
 7.	Jan 28 - Social and Cultural Transformations in Early 20th Cent. East Asia
 8.	Feb 11 - Japan’s Invasions of China and the Pacific War
 9.	Feb 25 - The Aftermaths of War in East Asia
-10.	Mar 11 - A Tale of Four Republics: PRC, ROC, DPRK, and ROK  
-[ Spring Vacation ] 
-11. Apr 08 - Legacies and Memories
+10.	Apr 01 - A Tale of Four Republics: PRC, ROC, DPRK, and ROK  
+[ Spring Vacation ]
+11. Apr 15 - Legacies and Memories  
+[ Final Exam: Tentatively 29 April ]
 
 ### Assessment Summary
 
@@ -31,7 +32,7 @@ Oct 15 - Short Essay 1 5%
 Nov 26 - Long Essay 1 20%  
 Feb 11 - Short Essay 2 5%  
 Apr 08 - Long Essay 2 20%  
-Presentation 10%
+Presentation 10%  
 
 **40% Take-Home Exam**
 
