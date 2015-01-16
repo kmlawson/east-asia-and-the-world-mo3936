@@ -1,3 +1,5 @@
+\pagebreak
+
 # Primary Sources on East and Southeast Asia
 
 Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
