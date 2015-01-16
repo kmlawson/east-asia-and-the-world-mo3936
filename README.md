@@ -1,4 +1,4 @@
-# East Asia and the World 1850-1950 - Module Handbook, St Andrews School of History
+# East Asia and the World 1850-1950 - Module Handbook
 
 **Instructor:** Konrad M. Lawson
 
